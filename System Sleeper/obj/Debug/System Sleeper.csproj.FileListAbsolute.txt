@@ -1,0 +1,7 @@
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\bin\Debug\System Sleeper.exe
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\bin\Debug\System Sleeper.pdb
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\obj\Debug\System_Sleeper.MainForm.resources
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\obj\Debug\System Sleeper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\obj\Debug\System Sleeper.exe
+C:\Documents and Settings\Ads\My Documents\SharpDevelop Projects\System Sleeper\System Sleeper\obj\Debug\System Sleeper.pdb
